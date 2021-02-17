@@ -441,8 +441,8 @@ ul.plain {
 }
 
 .grayStyle, .graystyle {
-  background-color: #999999;
-  border-bottom: 5px solid #4b2e83;
+  background-color: #e8e3d3;
+  border-bottom: 5px solid #999999;
 }
 
 .halfBlock, .halfblock {
